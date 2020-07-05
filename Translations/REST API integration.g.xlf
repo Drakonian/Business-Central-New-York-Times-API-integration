@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="REST API integration">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2388589736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spotify Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT API Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388589736 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT API Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388589736 - Field 2517242498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT API Setup - Field Base URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388589736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New York Time API Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT API Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388589736 - Control 2517242498 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Base URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT API Setup - Control Base URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2388589736 - Control 1951792025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT API Setup - Control APIKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388589736 - Control 1951792025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the API Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT API Setup - Control APIKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 860596380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Best Sellers List of Themes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers Theme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 860596380 - Field 4181511615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers Theme - Field List Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 860596380 - Field 1201227547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oldest Published Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers Theme - Field Oldest Published Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 860596380 - Field 2354283142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Newest Published Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers Theme - Field Newest Published Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 860596380 - Field 2339977023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers Theme - Field Updated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 860596380 - Field 2464508769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List Name Encoded</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers Theme - Field List Name Encoded - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Best Sellers Theme List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Control 4181511615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the List Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Control List Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Control 2354283142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Newest Published Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Control Newest Published Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Control 1201227547 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Oldest Published Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Control Oldest Published Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Action 1029132904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Latest Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Action SyncLatestData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Action 1029132904 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Latest Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Action SyncLatestData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Action 3051279520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Best Sellers List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Action OpenBestSellersList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 860596380 - Action 3051279520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Best Sellers List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers Theme - Action OpenBestSellersList - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1634884235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Best Sellers Book</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1634884235 - Field 4181511615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers - Field List Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1634884235 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1634884235 - Field 245842227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers - Field Book Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1634884235 - Field 3908542825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers - Field Book Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1634884235 - Field 3497343472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Author</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers - Field Book Author - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1634884235 - Field 3579047479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amazon URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NYT Best Sellers - Field Amazon URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1634884235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Best Sellers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1634884235 - Control 245842227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Book Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers - Control Book Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1634884235 - Control 3908542825 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Book Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers - Control Book Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1634884235 - Control 3497343472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Book Author</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers - Control Book Author - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1634884235 - Control 3579047479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Amazon URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NYT Best Sellers - Control Amazon URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3595102612 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with HTTP Code:: %1 Request Body:: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpCode, %2 = RequestBody</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NYT API Management - NamedType RequestErr</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
