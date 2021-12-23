@@ -28,7 +28,7 @@ table 52000 "NYT API Setup"
         EncryptionManagement: Codeunit "Cryptography Management";
     begin
         if IsolatedStorage.Contains(GetStorageKey(), DataScope::Module) then
-            IsolatedStorage.Delete((GetStorageKey()));
+            IsolatedStorage.Delete((GetStorageKey(), DataScope::Module));
         if EncryptionManagement.IsEncryptionEnabled() and EncryptionManagement.IsEncryptionPossible() then
             NewAPIKey := EncryptionManagement.Encrypt(NewAPIKey);
 
