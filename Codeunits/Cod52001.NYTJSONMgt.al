@@ -80,7 +80,7 @@ codeunit 52001 "NYT JSON Mgt"
                 JArray2 := JToken2.AsArray();
                 foreach JToken2 in JArray2 do begin
                     NYTBestSellers."Book Title" := CopyStr(GetValueAsText(JToken2, 'title'), 1, MaxStrLen(NYTBestSellers."Book Title"));
-                    NYTBestSellers."Book Description" := CopyStr(GetValueAsText(JToken2, 'description'), 1, MaxStrLen(NYTBestSellers."Book Title"));
+                    NYTBestSellers."Book Description" := CopyStr(GetValueAsText(JToken2, 'description'), 1, MaxStrLen(NYTBestSellers."Book Description"));
                     NYTBestSellers."Book Author" := CopyStr(GetValueAsText(JToken2, 'author'), 1, MaxStrLen(NYTBestSellers."Book Author"));
                 end;
             end;
